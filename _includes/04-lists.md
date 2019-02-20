@@ -1,0 +1,3 @@
+* Learning
+* Open Source
+* Videogames
